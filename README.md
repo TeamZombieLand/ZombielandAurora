@@ -1,17 +1,17 @@
-![ZombieLand v3.00](/v3/logo.png)
-Zombieland - Survival Game v3.00 is classic web3 game with Multiplayer, DeFi, NFT and many more in game upgrades and different weapons to survive in zombieland.
+![ZombieLand Aurora](/Build/logo.png)
+Zombieland - Survival Game is classic web3 game with Multiplayer, DeFi, NFT and many more in game upgrades and different weapons to survive in zombieland.
 
-### [Click here to Play ZombieLand v3.00](https://zombieland.online/)
+### [Click here to Play ZombieLand ](https://aurora.zombieland.fun/)
 
 ### Project Info:
-Zombieland - Survival Game stands as the combination of the words “game” and “finance”. In doing so, GameFi brings together Bittorrent blockchain technology, including NFTs, cryptocurrencies and decentralization, and advanced gaming mechanics where players can generate income from simply playing and enjoying their gaming experience.
+Zombieland - Survival Game stands as the combination of the words “game” and “finance”. In doing so, GameFi brings together Aurora blockchain technology, including NFTs, cryptocurrencies and decentralization, and advanced gaming mechanics where players can generate income from simply playing and enjoying their gaming experience.
 
 Zombieland - Survival Game powers where players are financially rewarded for the time and effort they put into playing. This model is better known as Play-And-Earn. Economic incentives might include tokens, upgrades and much more. Typically, players are rewarded for completing game-related tasks like progressing through different levels.
 
 ### Project Test Instructions:
 
 * Login to Metamask from Desktop or Laptop
-* Add Bittorrent Mainnet in Metamask
+* Add Aurora Mainnet in Metamask
 * Make sure you have enough BTTC Mainnet coins in account
 * Login into game from Desktop or Laptop
 * Start your adventure
