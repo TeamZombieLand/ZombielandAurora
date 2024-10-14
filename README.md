@@ -17,10 +17,10 @@ Zombieland - Survival Game powers where players are financially rewarded for the
 * Start your adventure
 
 ### Contract Address:
-Testnet
 
-0x64dDF9B674B6CC05CaC59375Fe52f66750E9Fd98
-https://testnet.bttcscan.com/address/0x64dDF9B674B6CC05CaC59375Fe52f66750E9Fd98
+Testnet
+0x6B9eD3928649085aD0D2060bEB7106Ae182350E9
+https://explorer.testnet.aurora.dev/address/0x6B9eD3928649085aD0D2060bEB7106Ae182350E9
 
 ### Project Features:
 
