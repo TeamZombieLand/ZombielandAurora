@@ -1,4 +1,4 @@
-![ZombieLand Aurora](/logo.png)
+![ZombieLand Aurora](/SourceFiles/logo.png)
 Zombieland - Survival Game is classic web3 game with Multiplayer, DeFi, NFT and many more in game upgrades and different weapons to survive in zombieland.
 
 ### [Click here to Play ZombieLand ](https://aurora.zombieland.fun/)
