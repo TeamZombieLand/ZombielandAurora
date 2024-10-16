@@ -19,11 +19,14 @@ Zombieland - Survival Game powers where players are financially rewarded for the
 ### Contract Address:
 
 Testnet
+
 0xa0BCe9CDAb2C34a4e4cEC168555cC9E3c72Eb186
 https://explorer.testnet.aurora.dev/address/0xa0BCe9CDAb2C34a4e4cEC168555cC9E3c72Eb186
 
 0x0e4c0321B1e9B2Cf58A5BFe76909c01e63626e7a
 https://explorer.testnet.aurora.dev/address/0x0e4c0321B1e9B2Cf58A5BFe76909c01e63626e7a
+
+#### [Aurrora Contract Source Files - Click Here](https://github.com/TeamZombieLand/ZombielandAurora/tree/main/Contract)
 
 ### Project Features:
 
