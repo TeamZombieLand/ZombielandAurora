@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2eb6e5a4ada981f44ab9492a7c637fb9, type: 3}
+    - {fileID: 2800000, guid: f8f79dc50c62b0c48b23e0e66cb9392c, type: 3}
+    - {fileID: 2800000, guid: 6dc9fcff503d06241a9ef97bd1c2bcf6, type: 3}
+    - {fileID: 2800000, guid: 0d1dd55cb50534c468a208b5e6c75b79, type: 3}
+    - {fileID: 2800000, guid: 44d727a08b8a3aa4e87215e256e07464, type: 3}
+    - {fileID: 2800000, guid: 177933b382b6bfc43909f7bc708e2624, type: 3}
+    - {fileID: 2800000, guid: b91fa23064aa9014189986e822627689, type: 3}
+    - {fileID: 2800000, guid: 400e7c53411dcc749acb86bcf6a2fbc4, type: 3}
+    - {fileID: 2800000, guid: 97ca128cbb787fa449896afd18a2419e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b91fa23064aa9014189986e822627689, type: 3}
+  - {fileID: 21300000, guid: 44d727a08b8a3aa4e87215e256e07464, type: 3}
+  - {fileID: 21300000, guid: 400e7c53411dcc749acb86bcf6a2fbc4, type: 3}
+  - {fileID: 21300000, guid: 177933b382b6bfc43909f7bc708e2624, type: 3}
+  - {fileID: 21300000, guid: 2eb6e5a4ada981f44ab9492a7c637fb9, type: 3}
+  - {fileID: 21300000, guid: f8f79dc50c62b0c48b23e0e66cb9392c, type: 3}
+  - {fileID: 21300000, guid: 0d1dd55cb50534c468a208b5e6c75b79, type: 3}
+  - {fileID: 21300000, guid: 97ca128cbb787fa449896afd18a2419e, type: 3}
+  - {fileID: 21300000, guid: 6dc9fcff503d06241a9ef97bd1c2bcf6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Asset 1
+  - Tutorial80709
+  - Asset 3
+  - Arrow
+  - Tutorial32174
+  - Tutorial35054
+  - Tutorial80589
+  - car
+  - Tutorial57448
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
